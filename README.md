@@ -17,36 +17,28 @@ You do not need previous experience in energy, data analysis or coding. Useful c
 
 A GitHub account is not required.
 
-## How your group can contribute
+## V.... Extension
 
 The visual plotting extension lets you inspect and plot the CSV files without writing code. Work together as you explore the data.
 
-Useful roles include:
-
-- navigating and plotting the data;
-- checking units and assumptions;
-- spotting patterns and possible data-quality problems;
-- explaining what the result could mean for Keele;
-- preparing and presenting the group slide.
-
 ## Project files
 
-- [TASK.md](TASK.md) contains the shared warm-up, four group challenges and the report-back requirements.
+- [TASK.md](TASK.md) contains the shared warm-up, four group challenges and the presentation requirements.
 - [data/data_dictionary.md](data/data_dictionary.md) explains the columns, units and calculations.
 - `data/2023-Keele-Campus-Energy-Data.csv`
 - `data/2024-Keele-Campus-Energy-Data.csv`
 - `data/2025-Keele-Campus-Energy-Data.csv`
-- `slides/ERA-Hackathon-Data-Briefing-Draft.pptx` contains the opening briefing.
+- `slides/ERA-Hackathon-Data-Briefing.pptx` contains the opening briefing.
 
-## Keep these points in view
+## Keep these points in mind
 
 - The readings are average power values in kilowatts for five-minute intervals.
 - A zero does not automatically mean that equipment or a sensor failed.
 - The 2023 file is reviewed and repaired. The 2024 and 2025 files are reconstructed datasets.
-- These files contain historical observations. They are not forecasts.
+- These files contain historical observations.
 - State your assumptions and explain anything you are unsure about.
 
-## Group report-back
+## Group Presentations
 
 Prepare one slide. Your group will have four minutes to present and one minute for a question.
 

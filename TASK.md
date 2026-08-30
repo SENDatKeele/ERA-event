@@ -52,7 +52,7 @@ Investigate:
 - the largest or longest excess event;
 - whether the event was linked to high generation, low demand or both.
 
-Check suspicious values before treating an apparent excess event as real.
+Check suspicious values before assuming an apparent excess event is real.
 
 ### Challenge 4: audit the zeros
 
@@ -83,7 +83,7 @@ Report:
 - the assumptions behind your suggestion;
 - what Keele would need to measure or confirm before acting.
 
-The datasets do not contain asset capacities, efficiencies, availability, costs or genuine forecasts. Treat your answer as an evidence-based proposal, not proof that the option is feasible.
+The datasets do not contain asset capacities, efficiencies, availability, costs or genuine forecasts so treat your answer as an evidence-based proposal instead of direct proof that the option is feasible.
 
 ## Useful calculations
 
@@ -101,9 +101,9 @@ Hours = number of intervals / 12
 
 Read [data/data_dictionary.md](data/data_dictionary.md) before using the formulas.
 
-## Your one-slide report-back
+## Your 4 minute presentation
 
-Include:
+Include at least:
 
 1. One clearly labelled plot.
 2. One numerical finding.
