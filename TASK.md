@@ -8,15 +8,23 @@ Everyone completes the shared warm-up. Your group then chooses one challenge.
 
 ## Shared warm-up
 
-1. Open one annual CSV file.
+1. Open one annual CSV file in VS Code.
 2. Identify the date range, four columns and their units.
 3. Plot campus consumption, wind generation and solar generation for one day or one week.
 4. Record one pattern that looks reasonable.
 5. Record one feature that you would check before relying on it.
 
-Use the Visual Studio Code plotting extension to explore the data and create your plot. You do not need to write code.
+Use [VS Plotter by Rafael Arvelo](https://marketplace.visualstudio.com/items?itemName=RafaelArvelo.vsplotter). You do not need to write code.
+
+With the CSV open, press `Ctrl+Shift+P` and run `VSPlotter: Create Plot from file`. Select `DateTime` for X and all three power columns for Y: `power-con-ave`, `power-gen-wt-ave` and `power-gen-pv-ave`. Drag across the plot to zoom into one day or week; double-click to reset the view.
+
+Check that X shows dates and times, and identify each series using the data dictionary. All three Y columns are in kW. If the time axis does not display correctly, ask a facilitator before interpreting the plot.
+
+Discuss what you notice before moving to a challenge. You can use your own code or AI assistance for further analysis, but check the results and be ready to explain what was calculated.
 
 ## Choose one challenge
+
+Choose a question below, then open the [code folder guide](code/README.md). Run `starter.py` to load the data and try a first calculation. Change the dates and measurement to suit your question, then use the guide's examples or your own code to investigate further.
 
 ### Challenge 2: compare the years
 
@@ -69,7 +77,7 @@ Create a simple data-quality rule for one decision, such as calculating annual e
 
 The data alone cannot prove that a sensor or piece of equipment failed. Use terms such as **expected**, **plausible**, **suspicious** and **needs checking**.
 
-### Challenge 5: advise Keele
+### Challenge 5: advise
 
 What flexible response could make use of one recurring excess-energy pattern?
 
@@ -101,14 +109,14 @@ Hours = number of intervals / 12
 
 Read [data/data_dictionary.md](data/data_dictionary.md) before using the formulas.
 
-## Your 4 minute presentation
+## Your one-minute presentation
 
-Include at least:
+Prepare one slide with:
 
 1. One clearly labelled plot.
-2. One numerical finding.
-3. One sentence explaining why it matters for Keele.
-4. One limitation or assumption.
-5. One thing your group found useful, surprising or difficult.
+2. One key finding or question from the data.
+3. Why it matters or how it could be used.
 
-Your group will have four minutes to present and one minute for a question.
+Aim for about one minute. You do not need to present everything you did. Include a number where it helps, and state any assumption or limitation needed to understand your finding. There will be time for discussion during the wrap-up.
+
+Facilitators will explain how to submit your slide on the day. You do not need a GitHub account or write access to this repository.

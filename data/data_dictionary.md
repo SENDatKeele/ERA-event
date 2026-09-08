@@ -50,5 +50,3 @@ Treat year-to-year differences with care. A difference may reflect physical cond
 - Solar generation at night should normally be zero.
 - A wind value of zero may have several possible explanations.
 - A long run of zero campus consumption needs investigation before it is used in an excess-energy calculation.
-
-The files contain historical observations. They do not contain forecasts issued before the time being predicted.
