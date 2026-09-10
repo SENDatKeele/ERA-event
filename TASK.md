@@ -24,7 +24,7 @@ Discuss what you notice before moving to a challenge. You can use your own code 
 
 ## Choose one challenge
 
-Choose a question below, then open the [code folder guide](code/README.md). Run `starter.py` to load the data and try a first calculation. Change the dates and measurement to suit your question, then use the guide's examples or your own code to investigate further.
+Choose a question below, then open the [code folder guide](code/README.md). Open `starter.ipynb` and run its cells to load the data and see your first plot. Change the dates and measurement to suit your question, then use the notebook's optional examples or your own code to investigate further.
 
 ### Challenge 2: compare the years
 

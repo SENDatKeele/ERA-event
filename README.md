@@ -14,7 +14,7 @@ You do not need previous experience in energy, data analysis or coding. Useful c
 4. Read [TASK.md](TASK.md).
 5. Check [data/data_dictionary.md](data/data_dictionary.md) before analysing the data.
 6. Use VS Plotter to open one CSV file and complete the shared warm-up in [TASK.md](TASK.md#shared-warm-up).
-7. Choose your next challenge in [TASK.md](TASK.md), then open [code/README.md](code/README.md) to start working in Python.
+7. Choose your next challenge in [TASK.md](TASK.md), then open [code/README.md](code/README.md) to run the Jupyter notebook.
 
 A GitHub account is not required.
 
@@ -30,8 +30,8 @@ The shared warm-up gives the plotting steps. After that, choose a challenge and 
 
 - [TASK.md](TASK.md) contains the shared warm-up, four group challenges and the presentation requirements.
 - [data/data_dictionary.md](data/data_dictionary.md) explains the columns, units and calculations.
-- [code/starter.py](code/starter.py) loads the data and runs a first calculation for you to adapt to your chosen challenge.
-- [code/README.md](code/README.md) explains how to run the starter and add calculations to it.
+- [code/starter.ipynb](code/starter.ipynb) guides you through loading data, plotting and adapting examples to your chosen challenge.
+- [code/README.md](code/README.md) explains how to set up VS Code and run the notebook.
 - `data/2023-Keele-Campus-Energy-Data.csv`
 - `data/2024-Keele-Campus-Energy-Data.csv`
 - `data/2025-Keele-Campus-Energy-Data.csv`

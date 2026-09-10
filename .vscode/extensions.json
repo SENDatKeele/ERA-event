@@ -1,5 +1,7 @@
 {
   "recommendations": [
-    "RafaelArvelo.vsplotter"
+    "RafaelArvelo.vsplotter",
+    "ms-python.python",
+    "ms-toolsai.jupyter"
   ]
 }
