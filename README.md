@@ -47,7 +47,7 @@ The shared warm-up gives the plotting steps. After that, choose a challenge and 
 
 ## Group presentations
 
-Prepare one slide for a short presentation of about one minute. Focus on one finding; you do not need to report everything you tried.
+Prepare one slide for a short presentation of about two minutes. Focus on one finding; you do not need to report everything you tried.
 
 Show:
 

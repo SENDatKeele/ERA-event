@@ -30,6 +30,16 @@ Use **+ Code** to add a calculation and **+ Markdown** to add notes. Double-clic
 
 GitHub can display a saved notebook, but it does not run its cells. Download and open the project locally to work with it.
 
+## Explore further with pandas
+
+Optional: use the [pandas getting-started tutorials](https://pandas.pydata.org/docs/getting_started/intro_tutorials/index.html) to try more data manipulation and plotting:
+
+- [Select and filter data](https://pandas.pydata.org/docs/getting_started/intro_tutorials/03_subset_data.html).
+- [Calculate summary statistics](https://pandas.pydata.org/docs/getting_started/intro_tutorials/06_calculate_statistics.html).
+- [Create plots](https://pandas.pydata.org/docs/getting_started/intro_tutorials/04_plotting.html).
+
+Choose one operation that helps answer your group's question. Adapt the example to `data` or `period` and the campus column names, then check and explain the result.
+
 ## If something goes wrong
 
 - **A package is missing:** check that the selected kernel matches the Python used for installation. You can run `import sys; print(sys.executable)` in a code cell and `python -c "import sys; print(sys.executable)"` in the terminal to compare them.

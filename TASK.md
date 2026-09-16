@@ -109,7 +109,7 @@ Hours = number of intervals / 12
 
 Read [data/data_dictionary.md](data/data_dictionary.md) before using the formulas.
 
-## Your one-minute presentation
+## Your two-minute presentation
 
 Prepare one slide with:
 
@@ -117,6 +117,6 @@ Prepare one slide with:
 2. One key finding or question from the data.
 3. Why it matters or how it could be used.
 
-Aim for about one minute. You do not need to present everything you did. Include a number where it helps, and state any assumption or limitation needed to understand your finding. There will be time for discussion during the wrap-up.
+Aim for about two minutes. You do not need to present everything you did. Include a number where it helps, and state any assumption or limitation needed to understand your finding. There will be time for discussion during the wrap-up.
 
 Facilitators will explain how to submit your slide on the day. You do not need a GitHub account or write access to this repository.
