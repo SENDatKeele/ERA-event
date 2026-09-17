@@ -119,4 +119,10 @@ Prepare one slide with:
 
 Aim for about two minutes. You do not need to present everything you did. Include a number where it helps, and state any assumption or limitation needed to understand your finding. There will be time for discussion during the wrap-up.
 
-Facilitators will explain how to submit your slide on the day. You do not need a GitHub account or write access to this repository.
+### Submit your slide
+
+1. Save your single slide as a PowerPoint file (`.pptx`), named `Group-01.pptx` using your group number. Include the group number on the slide.
+2. One person from your group should [upload the PowerPoint here](https://keeleacuk-my.sharepoint.com/:f:/g/personal/h_a_akintunde_keele_ac_uk/IgDQFYF6GbmiSoIpKY-FujkIAQ773i_eC2AC8sBT_n7v3ww) at least **10 minutes before presentations start**. Facilitators will announce the exact deadline.
+3. Select your file, enter your name if asked, and choose **Upload**. Wait for the upload confirmation.
+
+You do not need to convert your slide to PDF or sign in to OneDrive or GitHub. If uploading fails, ask a facilitator to collect the file by USB.

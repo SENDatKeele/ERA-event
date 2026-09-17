@@ -55,7 +55,9 @@ Show:
 - one key finding or question from the data;
 - why it matters or how it could be used.
 
-State any assumption or limitation needed to understand your finding. Include a number where it helps. Facilitators will explain how to submit the slide on the day.
+State any assumption or limitation needed to understand your finding. Include a number where it helps.
+
+Upload your one-slide PowerPoint (`.pptx`) using the [slide submission link](https://keeleacuk-my.sharepoint.com/:f:/g/personal/h_a_akintunde_keele_ac_uk/IgDQFYF6GbmiSoIpKY-FujkIAQ773i_eC2AC8sBT_n7v3ww) at least **10 minutes before presentations start**. Name it `Group-01.pptx`, using your group number, and include that number on the slide. One person should upload for each group. See [submission instructions](TASK.md#submit-your-slide).
 
 ## Data acknowledgement and citation
 
